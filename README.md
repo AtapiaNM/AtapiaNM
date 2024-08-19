@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Anthony Tapia  
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Anything really
-- 📫 How to reach me Atapiamail@gmail.com
+- 👀 I’m a full-stack developer with 5 years of experience in React and about 1 year of experience with Angular.
+- 🌱 I’m currently expanding my skills in React and exploring new technologies.
+- 💞️ I’m open to collaborating on diverse projects, particularly those that challenge and grow my skills.
+- 📫 Feel free to reach out to me at Atapiamail@gmail.com
 
 <!---
 AtapiaNM/AtapiaNM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
